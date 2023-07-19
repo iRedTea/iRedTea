@@ -9,9 +9,7 @@
   <a href="https://github.com/iRedTea?tab=followers">
     <img src="https://img.shields.io/github/followers/iRedTea?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <p align="center">
-    <img src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg" />
-  </p>
+  <img src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg" />
 </p>
 
 
