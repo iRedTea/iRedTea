@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Development
 - ⚡Bukkit delevoper (over 50 successfully completed orders)
 
-<img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/github-banner.png" />
+<!--img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/github-banner.png" /-->
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg" />
