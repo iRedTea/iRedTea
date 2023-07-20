@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Development
 - ⚡Bukkit delevoper (over 50 successfully completed orders)
 
-<!--img src="https://raw.githubusercontent.com/htmlcssphpjs/htmlcssphpjs/main/github-banner.png" /-->
+<img src="https://sun9-41.userapi.com/impg/KCVlwwfPwMrlsnbgMwnER1ZuSt4nMZvYfwJrVA/mqf0oJi0kE0.jpg">
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg" />
@@ -11,6 +11,6 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRedTea&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iRedTea&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iRedTea&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iRedTea&theme=radical" />
 </p>
