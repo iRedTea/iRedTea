@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on EasyStartup web-app
 - 🌱 I’m currently learning Android Development
-- ⚡Bukkit delevoper (over 50 successfully completed orders)
+- ⚡Bukkit delevoper (over 100 successfully completed orders)
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
