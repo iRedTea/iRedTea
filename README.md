@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on EasyStartup web-app
-- 🌱 I’m currently learning Android Development
+- 🔭 GoLang Backend Web Dev
+- 🦾 Certified Android Dev
 - ⚡Bukkit delevoper (over 100 successfully completed orders)
+- 🎓BMSTU Student
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
