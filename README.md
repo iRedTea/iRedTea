@@ -1,8 +1,8 @@
 ### Hi there 👋 My competencies:
-- 🔭 GoLang Backend Web Dev
-- 🦾 Certified Android Dev
-- ⚡Bukkit delevoper (over 100 successfully completed orders)
-- 🎓BMSTU Student (fields of study: Computer Science and Computer Engineering)
+- 🔭 GoLang Backend Web Developer
+- 🦾 Certified Java Android Developer
+- ⚡Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
+- 🎓BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education Student
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
