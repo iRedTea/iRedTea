@@ -1,4 +1,4 @@
-### Welcome to my github 👋 My competencies:
+### Hi there 👋 My competencies:
 - 🔭 GoLang Backend Web Dev
 - 🦾 Certified Android Dev
 - ⚡Bukkit delevoper (over 100 successfully completed orders)
