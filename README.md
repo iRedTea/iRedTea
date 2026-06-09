@@ -2,7 +2,7 @@
 - 🔭 GoLang Backend Web Dev
 - 🦾 Certified Android Dev
 - ⚡Bukkit delevoper (over 100 successfully completed orders)
-- 🎓BMSTU Student
+- 🎓BMSTU Student (Fields of study: Computer Science and Computer Engineering)
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
