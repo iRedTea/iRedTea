@@ -1,5 +1,8 @@
-### Hi there 👋 My competencies:
+###  Hi there!
+I'm just web fullstack developer... 
+### 👋 My competencies:
 - 🔭 GoLang Backend Web Developer
+- ⚛️ React.js Frontend Web Developer
 - 🦾 Certified Java Android Developer
 - ⚡Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
 - 🎓BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education Student
