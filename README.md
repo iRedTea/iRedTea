@@ -7,8 +7,6 @@ I'm just web fullstack developer...
 - ⚡ Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
 - 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education (Technopark) Student
 
-<img src="https://i.imgur.com/nFJBsXO.jpeg">
-
 <p align="center">
   <img src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg" />
 </p>
