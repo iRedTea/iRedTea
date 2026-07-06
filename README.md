@@ -1,11 +1,11 @@
 ###  Hi there!
 I'm just web fullstack developer... 
 ### 👋 My competencies:
-- 🔭 GoLang Backend Web Developer
+- 🔭 GoLang/Java/C++ Backend Web Microservices Developer
 - ⚛️ React.js Frontend Web Developer
 - 🦾 Certified Java Android Developer
 - ⚡ Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
-- 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education Student
+- 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education (Technopark) Student
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
