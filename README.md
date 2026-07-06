@@ -4,8 +4,8 @@ I'm just web fullstack developer...
 - 🔭 GoLang Backend Web Developer
 - ⚛️ React.js Frontend Web Developer
 - 🦾 Certified Java Android Developer
-- ⚡Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
-- 🎓BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education Student
+- ⚡ Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
+- 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education Student
 
 <img src="https://i.imgur.com/nFJBsXO.jpeg">
 
