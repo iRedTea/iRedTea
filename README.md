@@ -1,6 +1,6 @@
-###  Hi there!
+### 👋 Hi there!
 I'm just web fullstack developer... 
-### 👋 My competencies:
+### My competencies:
 - 🔭 GoLang/Java/C++ Backend Web Microservices Developer
 - ⚛️ React.js Frontend Web Developer
 - 🦾 Certified Java Android Developer
