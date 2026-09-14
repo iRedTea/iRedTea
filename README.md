@@ -53,7 +53,7 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
 
 <p align="left">
-    <img src="https://zed.dev/img/logo.svg" alt="ESP32" width="50" height="50" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=goland,vim,obsidian&theme=dark&perline=15" alt="GoLand Obsidian Vim" height="50" />
+    <img src="https://zed.dev/cdn-cgi/image/width=40,quality=100,format=auto/_next/static/media/logo_wordmark_white_bigger.3loqk4pxc_cwi.png" alt="ESP32" width="50" height="50" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=goland,vim,obsidian&theme=dark&perline=15" alt="GoLand Obsidian Vim" height="50" />
 </p>
 
 ### Microcontrollers
