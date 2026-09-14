@@ -21,12 +21,11 @@ I'm just web fullstack developer...
 ### Backend
 
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark" alt="My Skills" height="45" />
+  <img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" width="45" height="45" />
+</p>
 
-![My Skills]([https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark](https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg"))
-
-
-</div>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,ktor,gradle,maven&theme=dark&perline=15)](https://skillicons.dev)
 
