@@ -37,10 +37,10 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx,docker,kubernetes,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx,docker,kubernetes)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,aws&theme=dark&perline=15" alt="githubactions, aws" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="50" height="50" />&nbsp;&nbsp;<img src="https://www.fail2ban.org/wiki/images/6/6a/Fail2ban_logo.png" alt="Fail2Ban" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,ansible&theme=dark&perline=15" alt="githubactions, aws sensible" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="50" height="50" />
 </p>
 
 ### Tools
