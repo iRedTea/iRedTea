@@ -43,10 +43,14 @@ I'm just web fullstack developer...
   <img src="https://skillicons.dev/icons?i=githubactions,aws,ansible&theme=dark&perline=15" alt="githubactions, aws sensible" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="50" height="50" />
 </p>
 
+### Mobile
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,electron&theme=dark&perline=15)](https://skillicons.dev)
+
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea,obsidian&theme=dark&perline=15)](https://skillicons.dev)
 
 
 ### Microcontrollers
