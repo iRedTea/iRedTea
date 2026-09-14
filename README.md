@@ -15,3 +15,16 @@ I'm just web fullstack developer...
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iRedTea&theme=radical" />
 </p>
+
+## 💻 Skills and Tools
+
+### Backend
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,ktor,gradle,maven&theme=dark&perline=15)](https://skillicons.dev)
+
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
