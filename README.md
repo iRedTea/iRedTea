@@ -22,7 +22,7 @@ I'm just web fullstack developer...
 
   
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,rabbitmq,grafana&theme=dark&perline=15" alt="Go" height="50" />&nbsp;&nbsp;<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=golang,rabbitmq,grafana,prometheus&theme=dark&perline=15" alt="Go RabitMQ Grafana Prometheus" height="50" />&nbsp;&nbsp;<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" width="50" height="50" />
 </p>
 
 
