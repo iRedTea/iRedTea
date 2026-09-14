@@ -50,8 +50,11 @@ I'm just web fullstack developer...
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea,obsidian&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
 
+<p align="left">
+    <img src="https://zed.dev/img/logo.svg" alt="ESP32" width="50" height="50" /> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=goland,vim,obsidian&theme=dark&perline=15" alt="GoLand Obsidian Vim" height="50" />
+</p>
 
 ### Microcontrollers
 
