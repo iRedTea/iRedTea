@@ -22,7 +22,7 @@ I'm just web fullstack developer...
 
   
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark" alt="Go" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=golang,rabbitmq,grafana&theme=dark&perline=15" alt="Go" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" width="50" height="50" />
 </p>
 
 
@@ -43,3 +43,8 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
+
+
+### Microcontrollers
+
+[![My Skills](https://skillicons.dev/icons?i=arduino&theme=dark&perline=15)](https://skillicons.dev)
