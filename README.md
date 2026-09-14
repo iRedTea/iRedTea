@@ -22,7 +22,7 @@ I'm just web fullstack developer...
 
   
 <p align="left">
-  <img src="[https://vercel.app](https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg)" alt="Go" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark" alt="Open Policy Agent" width="50" height="50" />
+  <img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Go" height="50" />&nbsp;&nbsp;&nbsp;<img src="https://go-skill-icons.vercel.app/api/icons?i=golang&theme=dark" alt="Open Policy Agent" width="50" height="50" />
 </p>
 
 
