@@ -34,12 +34,12 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,docker,nginx,githubactions,sentry,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx,docker,kubernetes,githubactions,ansible)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,figma,webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
