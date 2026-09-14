@@ -52,5 +52,5 @@ I'm just web fullstack developer...
 ### Microcontrollers
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark&perline=15" alt="Arduino" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberripi&theme=dark&perline=15" alt="Arduino RaspberriPI" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" width="50" height="50" />
 </p>
