@@ -1,4 +1,4 @@
-### 👋 Hi there!
+<img width="1646" height="1646" alt="image" src="https://github.com/user-attachments/assets/432991c1-cc99-4314-b075-87133dd1d2de" />### 👋 Hi there!
 I'm just web fullstack developer... 
 ### My competencies:
 - 🔭 GoLang/Java/C++ Backend Web Microservices Developer
@@ -53,7 +53,7 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
 
 <p align="left">
- <img src="https://skillicons.dev/icons?i=vim,obsidian&theme=dark&perline=15" alt="Obsidian Vim" height="50" />&nbsp;&nbsp;<img src="https://zed.dev/cdn-cgi/image/width=100,quality=100,format=auto/_next/static/media/logo_wordmark_white_bigger.3loqk4pxc_cwi.png" alt="ESP32" width="50" height="50" />&nbsp;&nbsp;<img src="https://ucarecdn.com/574f5504-001e-4dce-a046-0e3d1320d062/" alt="goland" width="50" height="50" />
+ <img src="https://skillicons.dev/icons?i=vim,obsidian&theme=dark&perline=15" alt="Obsidian Vim" height="50" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original" alt="ESP32" width="50" height="50" />&nbsp;&nbsp;<img src="https://ucarecdn.com/574f5504-001e-4dce-a046-0e3d1320d062/" alt="goland" width="50" height="50" />
 </p>
 
 ### Microcontrollers
