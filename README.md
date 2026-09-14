@@ -1,4 +1,4 @@
-<img width="1646" height="1646" alt="image" src="https://github.com/user-attachments/assets/432991c1-cc99-4314-b075-87133dd1d2de" />### 👋 Hi there!
+### 👋 Hi there!
 I'm just web fullstack developer... 
 ### My competencies:
 - 🔭 GoLang/Java/C++ Backend Web Microservices Developer
