@@ -53,7 +53,7 @@ I'm just web fullstack developer...
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,linux,bash)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postman,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,claudflare,vscode,idea&theme=dark&perline=15)](https://skillicons.dev)
 
 <p align="left">
  <img src="https://skillicons.dev/icons?i=vim,obsidian&theme=dark&perline=15" alt="Obsidian Vim" height="50" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original" alt="ESP32" width="50" height="50" />
