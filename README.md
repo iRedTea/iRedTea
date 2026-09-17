@@ -30,6 +30,8 @@ I'm just web fullstack developer...
   />
 </p>
 
+<br>
+
 ## 💻 Skills and Tools
 
 Backend
@@ -111,6 +113,8 @@ Microcontrollers
 [<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="50" height="50">](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="50" height="50">](https://www.raspberrypi.com/)
 [<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif / ESP32" title="Espressif / ESP32" width="50" height="50">](https://www.espressif.com/)
+
+<br>
 
 ## 📜 Diplomas and certificates
 
