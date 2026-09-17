@@ -112,7 +112,7 @@ Microcontrollers
 
 [<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="50" height="50">](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="50" height="50">](https://www.raspberrypi.com/)
-[<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif / ESP32" title="Espressif / ESP32" width="50" height="50">](https://www.espressif.com/)
+[<img src="https://images.icon-icons.com/2108/PNG/512/espressif_icon_130944.png" alt="Espressif / ESP32" title="Espressif / ESP32" width="50" height="50">](https://www.espressif.com/)
 
 <br>
 
