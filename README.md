@@ -43,7 +43,7 @@ I'm just web fullstack developer...
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,nginx,docker,kubernetes)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,aws,ansible&theme=dark&perline=15" alt="githubactions, aws sensible" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,cloudflare,ansible&theme=dark&perline=15" alt="githubactions, aws sensible" height="50" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" width="50" height="50" />
 </p>
 
 ### Mobile
