@@ -6,7 +6,7 @@ I'm just web fullstack developer...
 
 🔭 GoLang Backend Developer in BOLID org.
 
-⚡ Java/Kotlin Bukkit Freelancer (over 100 completed orders) and [Certified](https://stepik.org/cert/2077334) Android Developer
+⚡ Java/Kotlin Bukkit Freelancer (over 100 completed orders) and Certified Android Developer
 
 ⚛️ React.js Frontend Web Developer
 
