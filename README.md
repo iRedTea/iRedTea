@@ -73,13 +73,13 @@ Backend
   <a href="https://gradle.org/" title="Gradle">
     <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" />
   </a>
-  <a href="https://maven.apache.org/" title="Apache Maven">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" height="50" />
-  </a>
 </p>
 
 
 <p align="left">
+  <a href="https://maven.apache.org/" title="Apache Maven">
+    <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" height="50" />
+  </a>
   <a href="https://https://hibernate.org//" title="Hibernate">
     <img
       src="https://skillicons.dev/icons?i=hibernate"
