@@ -105,7 +105,7 @@ Tools
 [<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
-[<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPs75ZLw31RP967yJLhasWLaBpbV4fRffzK0OC2xotw&s" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOPs75ZLw31RP967yJLhasWLaBpbV4fRffzK0OC2xotw&s" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
 
 Microcontrollers
