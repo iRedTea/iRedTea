@@ -54,27 +54,8 @@ Backend
       height="50"
     />
   </a>
-  <a href="https://https://hibernate.org//" title="Hibernate">
-    <img
-      src="https://skillicons.dev/icons?i=hibernate"
-      alt="Hibernate"
-      width="50"
-      height="50"
-    />
-  </a>
 </p>
 
-<p align="left">
-  <a href="https://en.cppreference.com/w/c/language.html" title="C">
-    <img src="https://cdn.simpleicons.org/c" alt="C" width="50" height="50" />
-  </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" />
-  </a>
-  <a href="https://cmake.org/" title="CMake">
-    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" height="50" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://www.oracle.com/java/" title="Java">
@@ -94,6 +75,26 @@ Backend
   </a>
   <a href="https://maven.apache.org/" title="Apache Maven">
     <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" height="50" />
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://https://hibernate.org//" title="Hibernate">
+    <img
+      src="https://skillicons.dev/icons?i=hibernate"
+      alt="Hibernate"
+      width="50"
+      height="50"
+    />
+  <a href="https://en.cppreference.com/w/c/language.html" title="C">
+    <img src="https://cdn.simpleicons.org/c" alt="C" width="50" height="50" />
+  </a>
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" />
+  </a>
+  <a href="https://cmake.org/" title="CMake">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" height="50" />
   </a>
 </p>
 
