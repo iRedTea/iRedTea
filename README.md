@@ -34,11 +34,17 @@ My competencies:
 Backend
 
 <p align="left">
+  
   [![Go](https://skillicons.dev/icons?i=golang)](https://go.dev/)
+  
   [![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
+  
   [![Grafana](https://skillicons.dev/icons?i=grafana)](https://grafana.com/)
+  
   [![Prometheus](https://skillicons.dev/icons?i=prometheus)](https://prometheus.io/)
+  
   [![Open Policy Agent](https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg)](https://www.openpolicyagent.org/)
+  
 </p>
 
 <p align="left">
