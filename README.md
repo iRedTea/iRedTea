@@ -111,3 +111,15 @@ Microcontrollers
 [<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="50" height="50">](https://www.arduino.cc/)
 [<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="50" height="50">](https://www.raspberrypi.com/)
 [<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif / ESP32" title="Espressif / ESP32" width="50" height="50">](https://www.espressif.com/)
+
+## 📜 Diplomas and certificates
+
+[RUCODE_5.0 festival (org. by ЦРИТО МФТИ (CITED MIPT)) - Diploma as a prize‑winner in the C/D division as part of the “Binom”‑1 team. (2022)](https://sun9-28.vkuserphoto.ru/s/v1/ig2/-EnsfLJCJxUk3fqgAoFfzImLA68oYrqdCC0lpJZE--hWyiKttsXCSGIkzWfJ57ccanrJKbI0dXg7Hqy0h3SkyG-M.jpg?quality=96&as=32x23,48x34,72x52,108x77,160x115,240x172,360x258,480x344,540x387,640x459,720x516,1080x774,1280x917,1440x1032,2560x1835&from=bu&cs=2560x0)
+
+[Cup ISIJ 2023 online, MARATHON group B, BRONZE MEDAL, individual diploma](https://sun9-1.vkuserphoto.ru/s/v1/ig2/_evB05mad0Rs51hSoR1e80AxooIGIA61j8CsoC7B1mbPqYn6KCozYrOObj3iL8VuF19GaA-OD0hWqaYiuunUuTjc.jpg?quality=96&as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,1934x1450&from=bu&cs=1934x0)
+
+[STS ISIJ 2024 online, Mathermatics tour Gr A, PRIZE-WINNER, individual diploma](https://sun9-30.vkuserphoto.ru/s/v1/ig2/Yg4RyBdED3u5z56o6dVrgrZXW9GD9CYH9gCT43M3moMkVbSLuEMjmsjb0_wEy1TR7kdLgRkbS6nUTm8lg7GCJ7xL.jpg?quality=95&as=32x24,48x37,72x55,108x82,160x122,240x183,360x274,480x365,540x411,640x487,720x548,942x717&from=bu&u=_egTATJDuIKjJlCN3PMzMqd11BQ6lJW4DUADJuXlyMY&cs=942x0)
+
+[Certificate of completion with honors for the course “Android Mobile Application Development” from Omsk State Technical University.](https://stepik.org/certificate/9f60dba206711c3cb9330c12b9f3a7142d193aad.png?resolution=high)
+
+[Certificate by ЦРИТО МФТИ (CITED MIPT) of completion the course “A quick start in sports programming”] (https://stepik.org/certificate/171575b8ce51235def87f8617af676e1799af209.png?resolution=high)
