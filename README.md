@@ -31,7 +31,7 @@ I'm just web fullstack developer...
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis)](https://skillicons.dev)
