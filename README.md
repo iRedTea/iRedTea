@@ -14,6 +14,7 @@ My competencies:
 
 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education (Technopark) Student
 
+
 <p align="center">
   <img
     src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg"
@@ -33,238 +34,80 @@ My competencies:
 
 Backend
 
-<p align="left">
-  <a href="https://go.dev/" title="Go">
-    <img src="https://skillicons.dev/icons?i=golang" alt="Go" height="50" />
-  </a>
-  <a href="https://www.rabbitmq.com/" title="RabbitMQ">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" height="50" />
-  </a>
-  <a href="https://grafana.com/" title="Grafana">
-    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" height="50" />
-  </a>
-  <a href="https://prometheus.io/" title="Prometheus">
-    <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" height="50" />
-  </a>
-  <a href="https://www.openpolicyagent.org/" title="Open Policy Agent">
-    <img
-      src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg"
-      alt="Open Policy Agent"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=golang" alt="Go" title="Go" width="50" height="50">](https://go.dev/)
+[<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" title="RabbitMQ" width="50" height="50">](https://www.rabbitmq.com/)
+[<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="50" height="50">](https://grafana.com/)
+[<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="50" height="50">](https://prometheus.io/)
+[<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" title="Open Policy Agent" width="50" height="50">](https://www.openpolicyagent.org/)
 
+[<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50">](https://www.oracle.com/java/)
+[<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" width="50" height="50">](https://kotlinlang.org/)
+[<img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" width="50" height="50">](https://spring.io/)
+[<img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" title="Ktor" width="50" height="50">](https://ktor.io/)
+[<img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" width="50" height="50">](https://gradle.org/)
 
-<p align="left">
-  <a href="https://www.oracle.com/java/" title="Java">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50" />
-  </a>
-  <a href="https://kotlinlang.org/" title="Kotlin">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="50" />
-  </a>
-  <a href="https://spring.io/" title="Spring">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="50" />
-  </a>
-  <a href="https://ktor.io/" title="Ktor">
-    <img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" height="50" />
-  </a>
-  <a href="https://gradle.org/" title="Gradle">
-    <img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" />
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://maven.apache.org/" title="Apache Maven">
-    <img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" height="50" />
-  </a>
-  <a href="https://https://hibernate.org//" title="Hibernate">
-    <img
-      src="https://skillicons.dev/icons?i=hibernate"
-      alt="Hibernate"
-      width="50"
-      height="50"
-    />
-  <a href="https://en.cppreference.com/w/c/language.html" title="C">
-    <img src="https://cdn.simpleicons.org/c" alt="C" width="50" height="50" />
-  </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" />
-  </a>
-  <a href="https://cmake.org/" title="CMake">
-    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" title="Apache Maven" width="50" height="50">](https://maven.apache.org/)
+[<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" width="50" height="50">](https://hibernate.org/)
+[<img src="https://cdn.simpleicons.org/c" alt="C" title="C" width="50" height="50">](https://en.cppreference.com/w/c/language.html)
+[<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">](https://isocpp.org/)
+[<img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="50" height="50">](https://cmake.org/)
 
 Frontend
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="50" height="50">](https://www.typescriptlang.org/)
 
-<p align="left">
-  <a href="https://getbootstrap.com/" title="Bootstrap">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" />
-  </a>
-  <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
-  </a>
-  <a href="https://www.npmjs.com/" title="npm">
-    <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="50" />
-  </a>
-  <a href="https://bun.sh/" title="Bun">
-    <img src="https://skillicons.dev/icons?i=bun" alt="Bun" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="50" height="50">](https://getbootstrap.com/)
+[<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" height="50">](https://react.dev/)
+[<img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm" width="50" height="50">](https://www.npmjs.com/)
+[<img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" width="50" height="50">](https://bun.sh/)
 
 Database
 
-<p align="left">
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.sqlite.org/" title="SQLite">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="50" />
-  </a>
-  <a href="https://redis.io/" title="Redis">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="50" height="50">](https://www.postgresql.org/)
+[<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" height="50">](https://www.mysql.com/)
+[<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" width="50" height="50">](https://www.sqlite.org/)
+[<img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" width="50" height="50">](https://redis.io/)
 
 DevOps
 
-<p align="left">
-  <a href="https://ubuntu.com/" title="Ubuntu">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="50" />
-  </a>
-  <a href="https://nginx.org/" title="NGINX">
-    <img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" height="50" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" />
-  </a>
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" />
-  </a>
-  <a href="https://www.openstack.org/" title="OpenStack">
-    <img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu" width="50" height="50">](https://ubuntu.com/)
+[<img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" title="NGINX" width="50" height="50">](https://nginx.org/)
+[<img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="50" height="50">](https://www.docker.com/)
+[<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" width="50" height="50">](https://kubernetes.io/)
+[<img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" title="OpenStack" width="50" height="50">](https://www.openstack.org/)
 
-<p align="left">
-  <a href="https://github.com/features/actions" title="GitHub Actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/" title="Amazon Web Services">
-    <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" />
-  </a>
-  <a href="https://www.cloudflare.com/" title="Cloudflare">
-    <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" />
-  </a>
-  <a href="https://www.ansible.com/" title="Ansible">
-    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="50" />
-  </a>
-  <a href="https://www.pulumi.com/" title="Pulumi">
-    <img
-      src="https://cdn.simpleicons.org/pulumi/8A3391"
-      alt="Pulumi"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="50" height="50">](https://github.com/features/actions)
+[<img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" width="50" height="50">](https://aws.amazon.com/)
+[<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50">](https://www.cloudflare.com/)
+[<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50">](https://www.ansible.com/)
+[<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" title="Pulumi" width="50" height="50">](https://www.pulumi.com/)
 
 Mobile
 
-<p align="left">
-  <a href="https://developer.android.com/studio" title="Android Studio">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" />
-  </a>
-  <a href="https://www.electronjs.org/" title="Electron">
-    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" width="50" height="50">](https://developer.android.com/studio)
+[<img src="https://skillicons.dev/icons?i=electron" alt="Electron" title="Electron" width="50" height="50">](https://www.electronjs.org/)
 
 Tools
 
-<p align="left">
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
-  </a>
-  <a href="https://about.gitlab.com/" title="GitLab">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="50" />
-  </a>
-  <a href="https://www.linux.org/" title="Linux">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50">](https://github.com/)
+[<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="50" height="50">](https://about.gitlab.com/)
+[<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50">](https://www.linux.org/)
+[<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
 
-<p align="left">
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
-  </a>
-  <a href="https://www.postman.com/" title="Postman">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="50" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
+[<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50">](https://www.postman.com/)
+[<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
+[<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50">](https://www.jetbrains.com/idea/)
 
-<p align="left">
-  <a href="https://www.vim.org/" title="Vim">
-    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" height="50" />
-  </a>
-  <a href="https://obsidian.md/" title="Obsidian">
-    <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" height="50" />
-  </a>
-  <a href="https://zed.dev/" title="Zed">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png"
-      alt="Zed"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
+[<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 
 Microcontrollers
 
-<p align="left">
-  <a href="https://www.arduino.cc/" title="Arduino">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="50" />
-  </a>
-  <a href="https://www.raspberrypi.com/" title="Raspberry Pi">
-    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="50" />
-  </a>
-  <a href="https://www.espressif.com/" title="Espressif / ESP32">
-    <img
-      src="https://cdn.simpleicons.org/espressif/E7352C"
-      alt="Espressif / ESP32"
-      width="50"
-      height="50"
-    />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino" width="50" height="50">](https://www.arduino.cc/)
+[<img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" title="Raspberry Pi" width="50" height="50">](https://www.raspberrypi.com/)
+[<img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif / ESP32" title="Espressif / ESP32" width="50" height="50">](https://www.espressif.com/)
