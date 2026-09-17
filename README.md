@@ -1,14 +1,14 @@
-👋 Hi there!
+## 👋 Hi there!
 
 I'm just web fullstack developer...
 
-My competencies:
+## My competencies:
 
 🔭 GoLang/Java/C++ Backend Web Microservices Developer
 
 ⚛️ React.js Frontend Web Developer
 
-🦾 Certified Java Android Developer
+🦾 [Certified](https://stepik.org/cert/2077334) Java Android Developer
 
 ⚡ Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
 
@@ -30,7 +30,7 @@ My competencies:
   />
 </p>
 
-💻 Skills and Tools
+## 💻 Skills and Tools
 
 Backend
 
@@ -48,7 +48,7 @@ Backend
 
 [<img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" title="Apache Maven" width="50" height="50">](https://maven.apache.org/)
 [<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" width="50" height="50">](https://hibernate.org/)
-[<img src="https://cdn.simpleicons.org/c" alt="C" title="C" width="50" height="50">](https://en.cppreference.com/w/c/language.html)
+[<img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="50" height="50">](https://en.cppreference.com/w/c/language.html)
 [<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">](https://isocpp.org/)
 [<img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="50" height="50">](https://cmake.org/)
 
