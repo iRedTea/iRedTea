@@ -122,4 +122,4 @@ Microcontrollers
 
 [Certificate of completion with honors for the course “Android Mobile Application Development” from Omsk State Technical University.](https://stepik.org/certificate/9f60dba206711c3cb9330c12b9f3a7142d193aad.png?resolution=high)
 
-[Certificate by ЦРИТО МФТИ (CITED MIPT) of completion the course “A quick start in sports programming”] (https://stepik.org/certificate/171575b8ce51235def87f8617af676e1799af209.png?resolution=high)
+[Certificate by ЦРИТО МФТИ (CITED MIPT) of completion the course “A quick start in sports programming”](https://stepik.org/certificate/171575b8ce51235def87f8617af676e1799af209.png?resolution=high)
