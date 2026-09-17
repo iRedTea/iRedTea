@@ -125,6 +125,7 @@ Microcontrollers
 [(protocol)](https://web.archive.org/web/20240330233345/https://isi-junior.com/klass/oa/files/p7-2023.pdf)
 
 [STS ISIJ 2024 online, Mathermatics tour Gr A, PRIZE-WINNER, individual diploma](https://sun9-30.vkuserphoto.ru/s/v1/ig2/Yg4RyBdED3u5z56o6dVrgrZXW9GD9CYH9gCT43M3moMkVbSLuEMjmsjb0_wEy1TR7kdLgRkbS6nUTm8lg7GCJ7xL.jpg?quality=95&as=32x24,48x37,72x55,108x82,160x122,240x183,360x274,480x365,540x411,640x487,720x548,942x717&from=bu&u=_egTATJDuIKjJlCN3PMzMqd11BQ6lJW4DUADJuXlyMY&cs=942x0)
+[(protocol)](https://web.archive.org/web/20240619231815/http://isi-junior.com/about/ip14-2024.pdf)
 
 [Certificate of completion with honors for the course “Android Mobile Application Development” from Omsk State Technical University.](https://stepik.org/certificate/9f60dba206711c3cb9330c12b9f3a7142d193aad.png?resolution=high)
 
