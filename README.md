@@ -4,13 +4,11 @@ I'm just web fullstack developer...
 
 ## My competencies:
 
-🔭 GoLang/Java/C++ Backend Web Microservices Developer
+🔭 GoLang Backend Developer in BOLID org.
+
+⚡ Java/Kotlin Bukkit Freelancer (over 100 completed orders) and [Certified](https://stepik.org/cert/2077334) Android Developer
 
 ⚛️ React.js Frontend Web Developer
-
-🦾 [Certified](https://stepik.org/cert/2077334) Java Android Developer
-
-⚡ Java/Kotlin Bukkit Freelancer (over 100 successfully completed orders)
 
 🎓 BMSTU Student (fields of study: Computer Science and Computer Engineering) & VK Education (Technopark) Student
 
