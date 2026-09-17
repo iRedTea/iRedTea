@@ -83,7 +83,7 @@ DevOps
 [<img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" width="50" height="50">](https://aws.amazon.com/)
 [<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50">](https://www.cloudflare.com/)
 [<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50">](https://www.ansible.com/)
-[<img src="https://cdn.simpleicons.org/pulumi/8A3391" alt="Pulumi" title="Pulumi" width="50" height="50">](https://www.pulumi.com/)
+[<img src="https://thesvg.org/icons/pulumi/default.svg" alt="Pulumi" title="Pulumi" width="50" height="50">](https://www.pulumi.com/)
 
 Mobile
 
