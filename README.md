@@ -21,11 +21,7 @@ I'm just web fullstack developer...
 </p>
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=iRedTea&theme=radical"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=iRedTea&theme=dark" alt="GitHub Streak" />
 </p>
 
 <br>
