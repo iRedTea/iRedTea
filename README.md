@@ -14,6 +14,12 @@ I'm just web fullstack developer...
 
 
 <p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=iRedTea&theme=dark" 
+    alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img
     src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg"
     alt="WakaTime"
@@ -22,12 +28,6 @@ I'm just web fullstack developer...
     src="https://img.shields.io/github/last-commit/iRedTea/iRedTea/main?label=Last%20updated&style=flat"
     alt="WakaTime"
   />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=iRedTea&theme=dark" 
-    alt="GitHub Streak" />
 </p>
 
 <br>
