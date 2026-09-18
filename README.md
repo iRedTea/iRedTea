@@ -18,7 +18,10 @@ I'm just web fullstack developer...
     src="https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg"
     alt="WakaTime"
   />
-  [![Profile last updated](https://img.shields.io/github/last-commit/iRedTea/iRedTea/main?label=Last%20updated&style=flat)](https://github.com/iRedTea/iRedTea/commits)
+  <img
+    src="[https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg](https://img.shields.io/github/last-commit/iRedTea/iRedTea/main?label=Last%20updated&style=flat)"
+    alt="WakaTime"
+  />
 </p>
 
 <p align="center">
