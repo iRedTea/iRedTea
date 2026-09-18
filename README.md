@@ -19,7 +19,7 @@ I'm just web fullstack developer...
     alt="WakaTime"
   />
   <img
-    src="[https://wakatime.com/badge/user/5f36d26a-5e9c-4b05-adc7-d6c1b98d0328.svg](https://img.shields.io/github/last-commit/iRedTea/iRedTea/main?label=Last%20updated&style=flat)"
+    src="https://img.shields.io/github/last-commit/iRedTea/iRedTea/main?label=Last%20updated&style=flat"
     alt="WakaTime"
   />
 </p>
