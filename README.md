@@ -90,6 +90,13 @@ DevOps
 Mobile
 
 [<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" width="50" height="50">](https://developer.android.com/studio)
+[<img src="https://icon.icepanel.io/Technology/svg/Capacitor.svg" alt="Capacitor" title="Capacitor" width="50" height="50">](https://capacitorjs.com)
+[<img src="https://camo.githubusercontent.com/7308739f022e956c4b9be689ac3b485b83adce37e77fc81e2159a80df2066753/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d72656163746e6174697665267468656d653d6461726b" alt="React Native" title="React Native" width="50" height="50">](https://reactnative.dev)
+
+
+Desktop 
+
+[<img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="50" height="50">](https://dotnet.microsoft.com/en-us/languages/csharp)
 [<img src="https://skillicons.dev/icons?i=electron" alt="Electron" title="Electron" width="50" height="50">](https://www.electronjs.org/)
 
 Tools
