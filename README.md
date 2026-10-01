@@ -82,10 +82,14 @@ DevOps
 [<img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" title="OpenStack" width="50" height="50">](https://www.openstack.org/)
 
 [<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" width="50" height="50">](https://github.com/features/actions)
-[<img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" width="50" height="50">](https://aws.amazon.com/)
+[<img src="https://skills.syvixor.com/api/icons?i=amazons3&perline=12&radius=40" alt="Amazon S3" title="Amazon S3" width="50" height="50">](https://aws.amazon.com/en/s3/)
 [<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50">](https://www.cloudflare.com/)
 [<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" width="50" height="50">](https://www.ansible.com/)
 [<img src="https://i.imageupload.app/653bb68f92b28a119363.svg" alt="Pulumi" title="Pulumi" width="50" height="50">](https://www.pulumi.com/)
+
+[<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" alt="Caddy" title="Caddy" width="50" height="50">](https://caddyserver.com)
+[<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50">](https://www.cloudflare.com/)
+
 
 Mobile
 
