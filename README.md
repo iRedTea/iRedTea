@@ -89,7 +89,7 @@ DevOps
 
 [<img src="https://skillicons.dev/icons?i=openstack" alt="OpenStack" title="OpenStack" width="50" height="50">](https://www.openstack.org/)
 [<img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" title="Cloudflare" width="50" height="50">](https://www.cloudflare.com/)
-[<img src="https://intertrex.com/wp-content/uploads/2026/07/tstsmall845x845-pad1000x1000f8f8f8-300x300.jpg" alt="Envoy" title="Envoy" width="50" height="50">](https://www.envoyproxy.io/)
+[<img src="https://images.seeklogo.com/logo-png/33/1/envoy-proxy-logo-png_seeklogo-339846.png" alt="Envoy" title="Envoy" width="50" height="50">](https://www.envoyproxy.io/)
 
 
 Mobile
