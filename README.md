@@ -60,11 +60,13 @@ Frontend
 [<img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="50" height="50">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="50" height="50">](https://www.typescriptlang.org/)
+[<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="50" height="50">](https://vite.dev)
 
 [<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="50" height="50">](https://getbootstrap.com/)
 [<img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="50" height="50">](https://react.dev/)
 [<img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm" width="50" height="50">](https://www.npmjs.com/)
 [<img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" width="50" height="50">](https://bun.sh/)
+
 
 Database
 
