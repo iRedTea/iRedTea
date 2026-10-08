@@ -46,10 +46,10 @@ Backend
 [<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" width="50" height="50">](https://kotlinlang.org/)
 [<img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" width="50" height="50">](https://spring.io/)
 [<img src="https://skillicons.dev/icons?i=ktor" alt="Ktor" title="Ktor" width="50" height="50">](https://ktor.io/)
-[<img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" width="50" height="50">](https://gradle.org/)
+[<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" width="50" height="50">](https://hibernate.org/)
 
 [<img src="https://skillicons.dev/icons?i=maven" alt="Apache Maven" title="Apache Maven" width="50" height="50">](https://maven.apache.org/)
-[<img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" title="Hibernate" width="50" height="50">](https://hibernate.org/)
+[<img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" width="50" height="50">](https://gradle.org/)
 [<img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="50" height="50">](https://en.cppreference.com/w/c/language.html)
 [<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">](https://isocpp.org/)
 [<img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="50" height="50">](https://cmake.org/)
