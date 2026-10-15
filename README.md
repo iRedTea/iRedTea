@@ -129,14 +129,14 @@ Tools
 
 AI
 
-[<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude" title="Claude" width="50" height="50">](https://claude.com/)
+[<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude Code" title="Claude Code" width="50" height="50">](https://claude.com/product/claude-code)
 [<img src="https://gcore.jsdelivr.net/gh/openHacking/static-files@main/uPic/vUF9dS.png" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
 [<img src="https://i.ibb.co/ZRW7jVg6/image.png" alt="Spec-driven development" title="Spec-driven development" width="50" height="50">](https://github.com/Fission-AI/OpenSpec)
 [<img src="https://i.ibb.co/qLQ9PHqb/image.png" alt="Harness Engineering" title="Harness Engineering" width="50" height="50">](https://openai.com/index/harness-engineering/)
-[<img src="https://i.ibb.co/231KzFvy/image.png" alt="Superpowers skills" title="Superpowers skills" width="50" height="50">](https://github.com/obra/superpowers)
+[<img src="https://i.ibb.co/PsVhC4Vd/image.png" alt="Superpowers skills" title="Superpowers skills" width="50" height="50">](https://github.com/obra/superpowers)
 [<img src="https://i.ibb.co/DgsyZx4R/image.png" alt="MCP" title="MCP" width="50" height="50">](https://www.anthropic.com/news/model-context-protocol)
 
 Microcontrollers
