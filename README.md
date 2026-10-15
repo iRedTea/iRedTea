@@ -131,7 +131,7 @@ Tools
 AI
 
 [<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude Code" title="Claude Code" width="50" height="50">](https://claude.com/product/claude-code)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-chatgpt-icon-svg-download-png-15464647.png&w=256" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
+[<img src="https://i.ibb.co/HTsQFTMc/image.png" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
