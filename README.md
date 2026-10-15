@@ -73,8 +73,6 @@ Frontend
 [<img src="https://skillicons.dev/icons?i=redux&perline=10" alt="Redux" title="Redux" width="50" height="50">](https://redux.js.org)
 
 
-My Skills
-
 Database
 
 [<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="50" height="50">](https://www.postgresql.org/)
