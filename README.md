@@ -116,14 +116,17 @@ Tools
 [<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="50" height="50">](https://about.gitlab.com/)
 [<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50">](https://www.linux.org/)
 [<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
+[<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50">](https://www.postman.com/)
 [<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50">](https://www.jetbrains.com/idea/)
-
-[<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
+
+AI
+[<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude" title="Claude" width="50" height="50">](https://claude.com/)
+[<img src="https://gcore.jsdelivr.net/gh/openHacking/static-files@main/uPic/vUF9dS.png" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
