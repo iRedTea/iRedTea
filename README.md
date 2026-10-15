@@ -68,7 +68,7 @@ Frontend
 [<img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" width="50" height="50">](https://bun.sh/)
 [<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="50" height="50">](https://vite.dev)
 
-[<img src="https://i.ibb.co/bMnj7kQL/image.png" alt="TanStack Router" title="TanStack Router" width="50" height="50">](https://tanstack.com/router/latest)
+[<img src="https://i.ibb.co/jP1cnZx0/image.png" alt="TanStack Router" title="TanStack Router" width="50" height="50">](https://tanstack.com/router/latest)
 [<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="50" height="50">](https://nextjs.org/)
 [<img src="https://skillicons.dev/icons?i=redux&perline=10" alt="Redux" title="Redux" width="50" height="50">](https://redux.js.org)
 
@@ -131,7 +131,7 @@ Tools
 AI
 
 [<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude Code" title="Claude Code" width="50" height="50">](https://claude.com/product/claude-code)
-[<img src="https://cdn.iconscout.com/icon/free/png-512/free-chatgpt-icon-svg-download-png-15464647.png?f=webp&w=256" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-chatgpt-icon-svg-download-png-15464647.png&w=256" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
