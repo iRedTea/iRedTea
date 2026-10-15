@@ -125,6 +125,7 @@ Tools
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
 
 AI
+
 [<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude" title="Claude" width="50" height="50">](https://claude.com/)
 [<img src="https://gcore.jsdelivr.net/gh/openHacking/static-files@main/uPic/vUF9dS.png" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
