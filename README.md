@@ -138,7 +138,7 @@ AI
 [<img src="https://i.ibb.co/ZRW7jVg6/image.png" alt="Spec-driven development" title="Spec-driven development" width="50" height="50">](https://github.com/Fission-AI/OpenSpec)
 [<img src="https://i.ibb.co/qLQ9PHqb/image.png" alt="Harness Engineering" title="Harness Engineering" width="50" height="50">](https://openai.com/index/harness-engineering/)
 [<img src="https://i.ibb.co/PsVhC4Vd/image.png" alt="Superpowers skills" title="Superpowers skills" width="50" height="50">](https://github.com/obra/superpowers)
-[<img src="https://i.ibb.co/DgsyZx4R/image.png" alt="MCP" title="MCP" width="50" height="50">](https://www.anthropic.com/news/model-context-protocol)
+[<img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="MCP" title="MCP" width="50" height="50">](https://www.anthropic.com/news/model-context-protocol)
 
 Microcontrollers
 
