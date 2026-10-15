@@ -124,7 +124,7 @@ Tools
 
 [<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
-[<img src="https://i.ibb.co/cSFwcj1V/Untitled-1.png" alt="iTerm2" title="iTerm2" width="50" height="50">](https://iterm2.com/)
+[<img src="https://i.ibb.co/hxjMg0WT/Untitled-1.png" alt="iTerm2" title="iTerm2" width="50" height="50">](https://iterm2.com/)
 
 
 AI
