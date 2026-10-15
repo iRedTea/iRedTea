@@ -68,7 +68,7 @@ Frontend
 [<img src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" width="50" height="50">](https://bun.sh/)
 [<img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" width="50" height="50">](https://vite.dev)
 
-[<img src="https://tanstack.com/images/logos/logo-white.svg" alt="TanStack Router" title="TanStack Router" width="50" height="50">](https://tanstack.com/router/latest)
+[<img src="https://i.imageupload.app/39cd7dad8986f758f959.svg" alt="TanStack Router" title="TanStack Router" width="50" height="50">](https://tanstack.com/router/latest)
 [<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="50" height="50">](https://nextjs.org/)
 [<img src="https://skillicons.dev/icons?i=redux&perline=10" alt="Redux" title="Redux" width="50" height="50">](https://redux.js.org)
 
