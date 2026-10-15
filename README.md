@@ -116,13 +116,16 @@ Tools
 [<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" width="50" height="50">](https://about.gitlab.com/)
 [<img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" width="50" height="50">](https://www.linux.org/)
 [<img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" width="50" height="50">](https://www.gnu.org/software/bash/)
-[<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 
 [<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="50" height="50">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" width="50" height="50">](https://www.postman.com/)
 [<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50">](https://www.jetbrains.com/idea/)
+
+[<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
+[<img src="https://i.ibb.co/cSFwcj1V/Untitled-1.png" alt="iTerm2" title="iTerm2" width="50" height="50">](https://iterm2.com/)
+
 
 AI
 
@@ -131,6 +134,10 @@ AI
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
 
+[<img src="https://i.ibb.co/ZRW7jVg6/image.png" alt="Spec-driven development" title="Spec-driven development" width="50" height="50">](https://github.com/Fission-AI/OpenSpec)
+[<img src="https://i.ibb.co/qLQ9PHqb/image.png" alt="Harness Engineering" title="Harness Engineering" width="50" height="50">](https://openai.com/index/harness-engineering/)
+[<img src="https://i.ibb.co/231KzFvy/image.png" alt="Superpowers skills" title="Superpowers skills" width="50" height="50">](https://github.com/obra/superpowers)
+[<img src="https://i.ibb.co/DgsyZx4R/image.png" alt="MCP" title="MCP" width="50" height="50">](https://www.anthropic.com/news/model-context-protocol)
 
 Microcontrollers
 
