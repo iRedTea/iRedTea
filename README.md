@@ -122,6 +122,7 @@ Tools
 [<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50">](https://code.visualstudio.com/)
 [<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50">](https://www.jetbrains.com/idea/)
 
+[<img src="https://skillicons.dev/icons?i=clion" alt="CLion" title="CLion" width="50" height="50">](https://www.jetbrains.com/clion)
 [<img src="https://skillicons.dev/icons?i=vim" alt="Vim" title="Vim" width="50" height="50">](https://www.vim.org/)
 [<img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" title="Obsidian" width="50" height="50">](https://obsidian.md/)
 [<img src="https://i.ibb.co/hxjMg0WT/Untitled-1.png" alt="iTerm2" title="iTerm2" width="50" height="50">](https://iterm2.com/)
