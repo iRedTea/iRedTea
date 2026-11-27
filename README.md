@@ -38,10 +38,13 @@ Backend
 
 [<img src="https://skillicons.dev/icons?i=golang" alt="Go" title="Go" width="50" height="50">](https://go.dev/)
 [<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" title="RabbitMQ" width="50" height="50">](https://www.rabbitmq.com/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwAq7xCEXyEncxvc1D4F_trwlClLjkhlpzZ7N1CLOBA&s" alt="gRPC" title="gRPPC" width="50" height="50">](https://grpc.io)
 [<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" width="50" height="50">](https://grafana.com/)
 [<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" width="50" height="50">](https://prometheus.io/)
 [<img src="https://open-policy-agent.github.io/gatekeeper/website/img/logo.svg" alt="Open Policy Agent" title="Open Policy Agent" width="50" height="50">](https://www.openpolicyagent.org/)
 
+
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJl1zWdX5VUoomjv2m3X2Q9MiTxyVJLo3tgy2SWGI2ig&s=10" alt="mux" title="mux" width="50" height="50">](https://www.mux.com)
 [<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" width="50" height="50">](https://www.oracle.com/java/)
 [<img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" width="50" height="50">](https://kotlinlang.org/)
 [<img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" width="50" height="50">](https://spring.io/)
@@ -54,8 +57,8 @@ Backend
 [<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="50" height="50">](https://isocpp.org/)
 [<img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="50" height="50">](https://cmake.org/)
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwAq7xCEXyEncxvc1D4F_trwlClLjkhlpzZ7N1CLOBA&s" alt="gRPC" title="gRPPC" width="50" height="50">](https://grpc.io)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJl1zWdX5VUoomjv2m3X2Q9MiTxyVJLo3tgy2SWGI2ig&s=10" alt="mux" title="mux" width="50" height="50">](https://www.mux.com)
+
+
 
 Frontend
 
