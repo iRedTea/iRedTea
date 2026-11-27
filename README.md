@@ -103,7 +103,7 @@ Mobile
 
 [<img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" width="50" height="50">](https://developer.android.com/studio)
 [<img src="https://icon.icepanel.io/Technology/svg/Capacitor.svg" alt="Capacitor" title="Capacitor" width="50" height="50">](https://capacitorjs.com)
-[<img src="https://camo.githubusercontent.com/7308739f022e956c4b9be689ac3b485b83adce37e77fc81e2159a80df2066753/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d72656163746e6174697665267468656d653d6461726b" alt="React Native" title="React Native" width="50" height="50">](https://reactnative.dev)
+[<img src="https://camo.githubusercontent.com/ef7e78ed3789f254655d4545489537d5ffdbc3f090bbb1496e697609014ea056/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d72656163746e6174697665267468656d653d6461726b" alt="React Native" title="React Native" width="50" height="50">](https://reactnative.dev)
 
 
 Desktop 
@@ -131,7 +131,7 @@ Tools
 
 AI
 
-[<img src="https://namnamak.com/images/up/224/Claude1.png" alt="Claude Code" title="Claude Code" width="50" height="50">](https://claude.com/product/claude-code)
+[<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/claude.webp" alt="Claude Code" title="Claude Code" width="50" height="50">](https://claude.com/product/claude-code)
 [<img src="https://i.ibb.co/HTsQFTMc/image.png" alt="Codex" title="Codex" width="50" height="50">](https://openai.com/codex/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zed_Editor_Logo.png" alt="Zed" title="Zed" width="50" height="50">](https://zed.dev/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" width="50" height="50">](https://cursor.com/)
