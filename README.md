@@ -72,7 +72,7 @@ Frontend
 [<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="50" height="50">](https://nextjs.org/)
 [<img src="https://skillicons.dev/icons?i=redux&perline=10" alt="Redux" title="Redux" width="50" height="50">](https://redux.js.org)
 [<img src="https://trpc.io/img/logo.svg" alt="tRPC" title="tRPC" width="50" height="50">](https://trpc.io)
-
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozYAmXtg9iqJVTJ2QyN-LPnyn59ZP12oYKRkIjvbtIQ&s" alt="Turborepo" title="Turborepo" width="50" height="50">](https://turborepo.dev)
 
 Database
 
