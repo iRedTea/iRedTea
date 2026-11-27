@@ -55,6 +55,7 @@ Backend
 [<img src="https://skillicons.dev/icons?i=cmake" alt="CMake" title="CMake" width="50" height="50">](https://cmake.org/)
 
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwAq7xCEXyEncxvc1D4F_trwlClLjkhlpzZ7N1CLOBA&s" alt="gRPC" title="gRPPC" width="50" height="50">](https://grpc.io)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJl1zWdX5VUoomjv2m3X2Q9MiTxyVJLo3tgy2SWGI2ig&s=10" alt="mux" title="mux" width="50" height="50">](https://www.mux.com)
 
 Frontend
 
